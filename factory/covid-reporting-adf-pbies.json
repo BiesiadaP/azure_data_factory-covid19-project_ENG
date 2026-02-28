@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-pbies",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d84a41a4-63cb-4a74-8444-e4a7dde22834",
+		"tenantId": "5607b3fe-2e2e-4115-8c25-30f05028a932"
+	}
+}
